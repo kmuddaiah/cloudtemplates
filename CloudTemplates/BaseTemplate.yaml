@@ -12,6 +12,8 @@ inputs:
         const: 'centos-79,linux-spec'
       - title: CentOS Server 8.3
         const: 'centos-83,linux-spec'
+      - title: CentOS Server 8.4
+        const: 'centos-83,linux-spec'
     title: Operating System
     description: Select an operating system and version.
 #------------------------RESOURCES-----------------------#    
