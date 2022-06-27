@@ -1,5 +1,5 @@
 name: Base OS
-formatVersion: 1
+formatVersion: 2
 #-------------------------INPUTS-------------------------#
 inputs:
   operatingSystem:
